@@ -16,4 +16,4 @@
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
 
-<?php include('abstract-views/footer.php.php'); ?>
+<?php include('abstract-views/footer.php'); ?>

@@ -5,7 +5,7 @@
       <paths name="AFS">
         <serverdata>
           <mappings>
-            <mapping deploy="/fall2019/videos/mvc_practice" local="$PROJECT_DIR$" web="/fall2019/videos/mvc_practice" />
+            <mapping deploy="/fall2020/excercises/mvc_practice" local="$PROJECT_DIR$" web="/fall2020/excercises/mvc_practice" />
           </mappings>
         </serverdata>
       </paths>
